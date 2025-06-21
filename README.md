@@ -35,7 +35,8 @@ Lists key features with visual emoji markers
 Emphasizes the unique aspects (movie appearances, map integration)
 
 Uses clear, concise language
+![Simulator Screenshot - iPhone 16 Pro Max - 2025-06-22 at 01 15 55](https://github.com/user-attachments/assets/445cd496-5cfb-4ef6-a9f9-ced5a5e61bcc)
 
 ![Simulator Screenshot - iPhone 16 Pro Max - 2025-06-22 at 01 15 48](https://github.com/user-attachments/assets/c40290c2-9cbd-44d2-a2af-7ba85219aacd)
-![Simulator Screenshot - iPhone 16 Pro Max - 2025-06-22 at 01 15 55](https://github.com/user-attachments/assets/445cd496-5cfb-4ef6-a9f9-ced5a5e61bcc)
+
 ![Simulator Screenshot - iPhone 16 Pro Max - 2025-06-22 at 01 16 05](https://github.com/user-attachments/assets/7484a6b6-c883-4e84-ac5b-1e82e42ce0f5)
